@@ -1,1 +1,1 @@
-# swift-trainong
+# swift-training
